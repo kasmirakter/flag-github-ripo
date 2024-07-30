@@ -1,0 +1,16 @@
+.green{
+    width: 240px;
+    height: 180px;
+    background-color:green ;
+   
+}
+   .red{
+    position: absolute;
+    width: 100px;
+    height: 100px;
+    background-color: red;
+    border-radius: 50%;
+    top: 52px;
+    left: 75px;
+
+   }
